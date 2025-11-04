@@ -1,5 +1,5 @@
 # 💻 About Me:
-Hello! I'm Ernist, a computer science/data science student with a passion for AI and Blockchain. I have experience in backend development and integrating GPT models. Let's collaborate and explore the exciting possibilities in technology!
+Computer & Data Scientist | AI & Blockchain Enthusiast | Backend Developer
 
 
 ## 🌐 Socials:
